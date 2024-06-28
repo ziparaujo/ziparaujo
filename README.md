@@ -2,12 +2,9 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/ziparaujo/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ziparaujo@gmail.com) [![discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/938429092762628117)
 
-![ziparaujo GitHub stats](https://github-readme-stats.vercel.app/api?username=ziparaujo&show_icons=true&theme=gruvbox)
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziparaujo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziparaujo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
-
-###
 
 ### Tech
 
